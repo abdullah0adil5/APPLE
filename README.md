@@ -1,4 +1,4 @@
-- Hi, I’m heesecake
+- Hi, I’m Apple Pie
 - I am interested in learning programming
 - I am currently learning Python
 - I want to be a programmer
