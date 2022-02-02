@@ -1,0 +1,5 @@
+- Hi, I’m heesecake
+- I am interested in learning programming
+- I am currently learning Python
+- I want to be a programmer
+- I'm afraid life will end while we fantasize
