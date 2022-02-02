@@ -1,5 +1,5 @@
 - Hi, I’m Apple Pie
 - I am interested in learning programming
-- I am currently learning Python
+- I am currently learning HTML
 - I want to be a programmer
 - I'm afraid life will end while we fantasize
